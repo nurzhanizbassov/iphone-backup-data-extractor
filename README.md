@@ -1,6 +1,4 @@
-ibde stands for iphone backup data extractor.
-
-In order to use the app:
+### In order to use the app:
 
 1. Initialize virtual env:
 
