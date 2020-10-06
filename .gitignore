@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+.import
+node_modules/
+venv/
+env/
+*.log
+tags*
+backend/migrations
+backend/migrations/*
+
+# Vuejs
+node_modules
+node_modules/*
+dist
+dist/*
+/dist
+
+# IDEs and editors
+/.idea
+.idea/*
+!.idea/runConfigurations/
+.c9/
+*.launch
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.iml
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+.settings/
+.classpath
+.project
+.vscode/
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+*.tar.gz
+*.gz
+
+# vim settings
+.vim
+
+# Contacts
+contacts.vcf
